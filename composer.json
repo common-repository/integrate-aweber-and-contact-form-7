@@ -1,0 +1,8 @@
+{
+    "name": "darpan/awb-cf7",
+    "description": "WordPress Plugin to Integrate AWeber and Contact Form 7",
+    "license": "GPL-2.0+",
+    "require": {
+        "rmccue/requests": "^1.7"
+    }
+}

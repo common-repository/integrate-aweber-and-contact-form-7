@@ -1,0 +1,123 @@
+# Copyright (C) 2020 Darpan Kulkarni
+# This file is distributed under the same license as the Integrate AWeber and Contact Form 7 plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Integrate AWeber and Contact Form 7 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/awb-cf7\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-02-20T03:35:41+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: awb-cf7\n"
+
+#. Plugin Name of the plugin
+msgid "Integrate AWeber and Contact Form 7"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://darpankulkarni.in/products/integrate-aweber-and-contact-form-7"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrate AWeber and Contact Form 7. Connect your forms to lists and save submitted data directly to your AWeber account."
+msgstr ""
+
+#. Author of the plugin
+msgid "Darpan Kulkarni"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://darpankulkarni.in"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:52
+msgid "This plugin requires to know form id in advance. Please save the form to generate form id."
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:73
+msgid "AWeber Integration"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:83
+msgid "Revoke authorization"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:84
+msgid "to connect to another account."
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:89
+msgid "Authorize"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:91
+msgid "Generate Authorization Code"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:97
+msgid "Authorization Code"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:99
+msgid "Generate and paste your authorization code here"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:100
+msgid "Authorize and Fetch Lists"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:107
+msgid "Select List"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:108
+msgid "Reload Lists"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:113
+msgid "AWeber Lists"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:128
+msgid "Connect to Selected List"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:135
+msgid "Subscriber Details"
+msgstr ""
+
+#: admin/class-awb-cf7-panel.php:167
+msgid "Leave empty"
+msgstr ""
+
+#: api/class-awb-cf7-api.php:34
+msgid "Invalid access token. Unable to fetch accounts."
+msgstr ""
+
+#: api/class-awb-cf7-api.php:44
+msgid "Account details received."
+msgstr ""
+
+#: api/class-awb-cf7-api.php:70
+msgid "Unable to fetch lists."
+msgstr ""
+
+#: api/class-awb-cf7-api.php:152
+msgid "Successfully connected to list. List id: "
+msgstr ""
+
+#: api/class-awb-cf7-auth.php:105
+msgid "Invalid authorization code."
+msgstr ""
+
+#: api/class-awb-cf7-auth.php:115
+msgid "Access token received."
+msgstr ""
+
+#: api/class-awb-cf7-auth.php:177
+msgid "Authorization revoked."
+msgstr ""
